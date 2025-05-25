@@ -77,10 +77,10 @@ document.addEventListener('DOMContentLoaded', function() {
 // Dynamic Text Switcher (new code)
 document.addEventListener('DOMContentLoaded', function() {
     const words = [
-        "Lecturer, and my students love me!",
-        "Entrepreneur (I see gaps, then I build bridges)",
-        "Storyteller, cause what’s life without a few stories worth telling?",
-        "Strategist (Without a map, we’d all be wandering in circles)"
+        "Lecturer",
+        "Startup Guy",
+        "Storyteller",
+        "Educator"
     ];
 
     let i = 0;
